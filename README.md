@@ -101,3 +101,9 @@ This project uses SQL Server to investigate patterns associated with call-center
 The findings show that below-target intervals were associated with higher workload per staffed agent, lower average staffing, higher average handle time, and higher abandonment. The project demonstrates how SQL can turn operational data into actionable questions for further investigation while distinguishing observed patterns from proven causes.
 
 The complete SQL script was executed successfully in SQL Server during project validation. The dataset is synthetic, and the hypothetical staffing scenario illustrates a workload comparison rather than a prediction of service-level improvement.
+
+## Power BI Dashboard
+
+The interactive dashboard summarizes service-level performance, staffing levels, call workload, and recurring periods of below-target performance.
+
+![Call Center Performance Dashboard](Power_BI_Dashboard_Screenshot.png)
