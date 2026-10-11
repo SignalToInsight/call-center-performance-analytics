@@ -106,4 +106,4 @@ The complete SQL script was executed successfully in SQL Server during project v
 
 The interactive dashboard summarizes service-level performance, staffing levels, call workload, and recurring periods of below-target performance.
 
-![Call Center Performance Dashboard](Power_BI_Dashboard_Screenshot.png)
+![Call Center Performance Dashboard](Power_BI_Dashboard_Screenshot_V1.0.png)
